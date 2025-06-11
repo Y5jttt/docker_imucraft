@@ -1,1 +1,1 @@
-onething1/wxedge
+docker.io/uhziel/parkervcp-yolks:debian
